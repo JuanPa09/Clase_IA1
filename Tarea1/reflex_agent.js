@@ -1,6 +1,7 @@
 // MIT License
 // Copyright (c) 2020 Luis Espino
 // Modify by: Juan Pablo Ardón López
+// Carnet: 201700450
 // Ref: https://github.com/luisespino/artificial_intelligence_js/blob/main/01_reflex_agent.js
 
 function reflex_agent(location, state) {
